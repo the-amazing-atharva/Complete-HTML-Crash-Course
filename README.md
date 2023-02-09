@@ -2,6 +2,17 @@
 Contains all necessary HTML tags from a Crash Course in the form of a web page. <br>
 Visit site [here](https://the-amazing-atharva.github.io/Complete-HTML-Crash-Course/)
 
+# Table of Contents
+- [Boilerplate Code](#boilerplate-code)
+- [Basic Tags](#basic-tags)
+- [Text Tags](#text-tags)
+- [Links](#links)
+- [Formatting](#formatting)
+- [Lists](#lists)
+- [Graphical elements](#graphical-elements)
+- [Forms](#forms)
+- [Table](#table)
+
 # Boilerplate Code 
 &lt;!DOCTYPE html&gt; <br>
 &lt;html lang="en"&gt; <br>
