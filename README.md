@@ -1,6 +1,17 @@
 # HTML Crash Course
 Contains all necessary HTML tags from a Crash Course in the form of a web page. <br>
-Visit site [here](https://the-amazing-atharva.github.io/Complete-HTML-Crash-Course/)
+Visit site [here](https://the-amazing-atharva.github.io/Complete-HTML-Crash-Course/) and 
+for documentation [click here](https://www.w3schools.com/html/default.asp)
+
+# What is HTML?
+- HTML stands for Hyper Text Markup Language
+- HTML is the standard markup language for creating Web pages
+- HTML describes the structure of a Web page
+- HTML consists of a series of elements
+- HTML elements tell the browser how to display the content
+- HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
+
 
 # Table of Contents
 - [Boilerplate Code](#boilerplate-code)
@@ -12,6 +23,7 @@ Visit site [here](https://the-amazing-atharva.github.io/Complete-HTML-Crash-Cour
 - [Graphical elements](#graphical-elements)
 - [Forms](#forms)
 - [Table](#table)
+
 
 # Boilerplate Code 
 &lt;!DOCTYPE html&gt; <br>
