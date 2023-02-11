@@ -20,6 +20,7 @@ for documentation [click here](https://www.w3schools.com/html/default.asp)
 - [Links](#links)
 - [Formatting](#formatting)
 - [Lists](#lists)
+- [Favicon](#favicon)
 - [Graphical elements](#graphical-elements)
 - [Forms](#forms)
 - [Table](#table)
@@ -129,6 +130,13 @@ for documentation [click here](https://www.w3schools.com/html/default.asp)
 
 <br>
 
+## Favicon
+
+### <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+>A favicon is a small image displayed next to the page title in the browser tab
+
+<br>
+
 ## Graphical elements
 
 ### &lt;hr&gt;
@@ -195,6 +203,18 @@ Creates a checkbox.
 >Sets off each cell in a row
 ### &lt;th&gt; &lt;/th&gt;
 >Sets off the table header (a normal cell with bold, center text)
+### <caption>
+>Defines a table caption
+### <colgroup>	
+>Specifies a group of one or more columns in a table for formatting
+### <col>	
+>Specifies column properties for each column within a <colgroup> element
+### <thead>	
+>Groups the header content in a table
+### <tbody>	
+>Groups the body content in a table
+### <tfoot>	
+>Groups the footer content in a table
 
 
 
