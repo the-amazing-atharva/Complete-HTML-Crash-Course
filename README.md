@@ -1,7 +1,7 @@
 # HTML Crash Course
 Contains all necessary HTML tags from a Crash Course in the form of a web page. <br>
-Visit site [here](https://the-amazing-atharva.github.io/Complete-HTML-Crash-Course/) and 
-for documentation [click here](https://www.w3schools.com/html/default.asp)
+Visit site [here](https://the-amazing-atharva.github.io/Complete-HTML-Crash-Course/) <br>
+For documentation [click here](https://www.w3schools.com/html/default.asp)
 
 # What is HTML?
 - HTML stands for Hyper Text Markup Language
