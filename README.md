@@ -203,17 +203,17 @@ Creates a checkbox.
 >Sets off each cell in a row
 ### &lt;th&gt; &lt;/th&gt;
 >Sets off the table header (a normal cell with bold, center text)
-### <caption>
+### &lt;caption&gt;
 >Defines a table caption
-### <colgroup>	
+### &lt;colgroup&gt;
 >Specifies a group of one or more columns in a table for formatting
-### <col>	
->Specifies column properties for each column within a <colgroup> element
-### <thead>	
+### &lt;col&gt;	
+>Specifies column properties for each column within a &lt;colgroup&gt; element
+### &lt;thead&gt;
 >Groups the header content in a table
-### <tbody>	
+### &lt;tbody&gt;
 >Groups the body content in a table
-### <tfoot>	
+### &lt;tfoot&gt;
 >Groups the footer content in a table
 
 
